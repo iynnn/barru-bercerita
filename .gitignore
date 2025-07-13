@@ -1,0 +1,14 @@
+#Laravel backend
+/backend/vendor
+/backend/.env
+/backend/storage/*,key
+/backend/public/storage
+
+# Vue Frontend
+/frontend/node_modules
+/frontend/dist
+
+#System files
+.DS_Store
+*.log
+.idea/
