@@ -1,0 +1,79 @@
+// Variable overrides
+// // === CoreUI Color Theme Mapping ===
+// src/styles/variables.scss
+
+// CoreUI default color override
+$primary: #4b99e6; // mariner-500
+$secondary: #22dd66; // malachite-500
+$success: #13a648; // malachite-600
+$info: #6db6ed; // mariner-400
+$warning: #ffb300;
+$danger: #e35197; // hibiscus-500
+$light: #f5f7fa; // athens-50
+$dark: #1c2e4f; // mariner-950
+
+// Untuk dark mode
+$body-bg-dark: #121212;
+$body-color-dark: #e0e0e0;
+$card-bg-dark: #1e1e1e;
+$link-color-dark: #90caf9;
+
+// Skala warna untuk utility (bg/text/border)
+$custom-colors: (
+  mariner: (
+    50: #f0f8fe,
+    100: #deeefb,
+    200: #c4e2f9,
+    300: #9cd1f4,
+    400: #6db6ed,
+    500: #4b99e6,
+    600: #367dda,
+    700: #2d69c9,
+    800: #2a56a3,
+    900: #274981,
+    950: #1c2e4f,
+  ),
+  malachite: (
+    50: #f0fdf4,
+    100: #dbfde7,
+    200: #baf8d0,
+    300: #84f1ab,
+    400: #47e17e,
+    500: #22dd66,
+    600: #13a648,
+    700: #13823c,
+    800: #146734,
+    900: #13542d,
+    950: #042f16,
+  ),
+  hibiscus: (
+    50: #fcf3f8,
+    100: #fbe8f3,
+    200: #f9d1e7,
+    300: #f4add3,
+    400: #ed79b4,
+    500: #e35197,
+    600: #c92d70,
+    700: #b5215d,
+    800: #951f4c,
+    900: #7d1e43,
+    950: #4c0b24,
+  ),
+  athens: (
+    50: #f5f7fa,
+    100: #eaeef4,
+    200: #d0dae7,
+    300: #a7bbd2,
+    400: #7897b8,
+    500: #577aa0,
+    600: #446285,
+    700: #38506c,
+    800: #31445b,
+    900: #2d3b4d,
+    950: #1e2733,
+  ),
+);
+
+// If you want to customize your project please add your variables below.
+
+$enable-deprecation-messages: false !default;

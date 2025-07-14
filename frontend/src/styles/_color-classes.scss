@@ -1,0 +1,16 @@
+// src/styles/_color-classes.scss
+@use 'sass:map';
+
+@each $color-name, $shades in $custom-colors {
+  @each $level, $value in $shades {
+    .bg-#{$color-name}-#{$level} {
+      background-color: #{$value} !important;
+    }
+    .text-#{$color-name}-#{$level} {
+      color: #{$value} !important;
+    }
+    .border-#{$color-name}-#{$level} {
+      border-color: #{$value} !important;
+    }
+  }
+}
