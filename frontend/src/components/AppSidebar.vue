@@ -11,8 +11,7 @@ const sidebar = useSidebarStore()
 
 <template>
   <CSidebar
-    class="border-end"
-    colorScheme="dark"
+    class="border-end bg-mariner-400 text-mariner-900 fw-semibold"
     position="fixed"
     :unfoldable="sidebar.unfoldable"
     :visible="sidebar.visible"

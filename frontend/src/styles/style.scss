@@ -16,3 +16,21 @@
 
 // If you want to add custom CSS you can put it here
 @import 'custom';
+.c-sidebar.bg-mariner-300 {
+  color: #274981; // mariner-900
+
+  .sidebar-nav,
+  .nav-link,
+  .sidebar-header {
+    color: #274981 !important;
+  }
+
+  .nav-link:hover {
+    background-color: #c4e2f9; // mariner-200
+  }
+
+  .nav-link.active {
+    background-color: #deeefb; // mariner-100
+    font-weight: 600;
+  }
+}
