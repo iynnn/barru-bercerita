@@ -3,12 +3,13 @@
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
 
 class IndicatorValue extends Model
 {
     //
-
-    protected $fillable = ['indicator_id', 'region_id', 'year', 'value'];
+    use HasFactory;
+    protected $fillable = ['indicator_id', 'region_id', 'year', 'value', 'last_synced_at'];
 
     public function indicator()
     {

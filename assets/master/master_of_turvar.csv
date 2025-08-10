@@ -1,0 +1,183 @@
+,turvar_id,turvar,group_turvar_id,name_group_turvar
+0,1,Harga Berlaku,1.0,Dasar Harga PDB
+1,2,Harga Konstan 2000,1.0,Dasar Harga PDB
+2,3,Laju Pertumbuhan Kumulatif,2.0,Laju Pertumbuhan PDB Lapangan Usaha
+3,4,Laju Pertumbuhan Q to Q,2.0,Laju Pertumbuhan PDB Lapangan Usaha
+4,5,Laju Pertumbuhan Y on Y,2.0,Laju Pertumbuhan PDB Lapangan Usaha
+5,24,sekolah,2.0,Laju Pertumbuhan PDB Lapangan Usaha
+6,25,guru,2.0,Laju Pertumbuhan PDB Lapangan Usaha
+7,26,murid,2.0,Laju Pertumbuhan PDB Lapangan Usaha
+8,27,sekolah,3.0,SD
+9,28,murid,3.0,SD
+10,29,guru,3.0,SD
+11,33,0-2 %,4.0,Kemiringan Tanah
+12,34,2-15%,4.0,Kemiringan Tanah
+13,35,15-40%,4.0,Kemiringan Tanah
+14,36,>40%,4.0,Kemiringan Tanah
+15,37,Maks,5.0,Iklim
+16,38,Min,5.0,Iklim
+17,39,Rata-Rata,5.0,Iklim
+18,23,Laki-Laki,6.0,Kelompok Umur
+19,30,Perempuan,6.0,Kelompok Umur
+20,31,Jumlah,6.0,Kelompok Umur
+21,32,Rasio Jenis Kelamin,6.0,Kelompok Umur
+22,44,Laki-Laki,7.0,Anggota DPRD
+23,45,Perempuan,7.0,Anggota DPRD
+24,46,Jumlah,7.0,Anggota DPRD
+25,47,Persentase,7.0,Anggota DPRD
+26,48,Laki-Laki,8.0,Jenis Kelamin
+27,49,Perempuan,8.0,Jenis Kelamin
+28,50,Jumlah,8.0,Jenis Kelamin
+29,51,Dokter,9.0,Tenaga Kesehatan
+30,52,Perawat,9.0,Tenaga Kesehatan
+31,53,Bidan,9.0,Tenaga Kesehatan
+32,54,Farmasi,9.0,Tenaga Kesehatan
+33,55,Ahli Gizi,9.0,Tenaga Kesehatan
+34,56,Rumah Sakit Umum,10.0,Fasilitas Kesehatan
+35,57,Rumah Sakit Khusus,10.0,Fasilitas Kesehatan
+36,58,Rumah Bersalin,10.0,Fasilitas Kesehatan
+37,59,Puskesmas,10.0,Fasilitas Kesehatan
+38,60,Klinik/Balai Kesehatan,10.0,Fasilitas Kesehatan
+39,61,Posyandu,10.0,Fasilitas Kesehatan
+40,62,Polindes,10.0,Fasilitas Kesehatan
+41,63,Desa,11.0,satuan pemerintahan
+42,64,Kelurahan,11.0,satuan pemerintahan
+43,65,Lingkungan,11.0,satuan pemerintahan
+44,66,Dusun,11.0,satuan pemerintahan
+45,67,Rukun Tetangga,11.0,satuan pemerintahan
+46,68,TPAK,12.0,TPAK TPT
+47,69,TPT,12.0,TPAK TPT
+48,70,Daya Terpasang ,13.0,Energi Listrik
+49,71,Produksi Listrik,13.0,Energi Listrik
+50,72,Listrik Terjual,13.0,Energi Listrik
+51,73,Dipakai Sendiri,13.0,Energi Listrik
+52,74,Susut/hilang,13.0,Energi Listrik
+53,75,Pelanggan,14.0,Jumlah Pelanggan dan Air yang Disalurkan Menurut Kecamatan di Kabupaten Barru
+54,76,Air Disalurkan,14.0,Jumlah Pelanggan dan Air yang Disalurkan Menurut Kecamatan di Kabupaten Barru
+55,77,Nilai,14.0,Jumlah Pelanggan dan Air yang Disalurkan Menurut Kecamatan di Kabupaten Barru
+56,78,Rumah Makan,15.0,Jumlah Rumah Makan dan Fasilitas
+57,79,Meja,15.0,Jumlah Rumah Makan dan Fasilitas
+58,80,Kursi,15.0,Jumlah Rumah Makan dan Fasilitas
+59,81,Bawah Merah,16.0,Jenis Komoditi
+60,82,Bawang Putih,16.0,Jenis Komoditi
+61,83,Cabe Besar,16.0,Jenis Komoditi
+62,84,Cabe Rawit,16.0,Jenis Komoditi
+63,85,Kacang panjang,16.0,Jenis Komoditi
+64,86,Kentang,16.0,Jenis Komoditi
+65,87,Kubis,16.0,Jenis Komoditi
+66,88,Terong,16.0,Jenis Komoditi
+67,89,Tomat,16.0,Jenis Komoditi
+68,90,Hutan Lindung,17.0,Jenis Hutan
+69,91,Suaka Alam dan Pelestarian Alam,17.0,Jenis Hutan
+70,92,Hutan Produksi,17.0,Jenis Hutan
+71,93,Jumlah,17.0,Jenis Hutan
+72,94,Perikanan Laut,18.0,Produksi Perikanan
+73,95,Perikanan Darat,18.0,Produksi Perikanan
+74,96,Jumlah,18.0,Produksi Perikanan
+75,97,Tambak,19.0,Luas Area dan Produksi perikanan Darat
+76,98,kolam,19.0,Luas Area dan Produksi perikanan Darat
+77,99,Jumlah,19.0,Luas Area dan Produksi perikanan Darat
+78,100,Ayam Kampung,20.0,Jenis Unggas
+79,101,Ayam Petelur,20.0,Jenis Unggas
+80,102,Ayam Pedaging,20.0,Jenis Unggas
+81,103,Itik,20.0,Jenis Unggas
+82,104,Sapo Potong,21.0,Populasi Ternak
+83,105,Kerbau,21.0,Populasi Ternak
+84,106,Kuda,21.0,Populasi Ternak
+85,107,Kambing,21.0,Populasi Ternak
+86,108,TKSK,22.0,Jumlah Kader Sosial
+87,109,Jumlah pekerja Sosial Masyarakat,22.0,Jumlah Kader Sosial
+88,110,Rencana,23.0,Jumlah penerima bantuan (KK)
+89,111,Realisasi,23.0,Jumlah penerima bantuan (KK)
+90,112,Jumlah desa,24.0,Organisasi
+91,113,Jumlah Karang Taruna,24.0,Organisasi
+92,114,Islam,25.0,Agama
+93,115,Protestan,25.0,Agama
+94,116,Katolik,25.0,Agama
+95,117,Hindu,25.0,Agama
+96,118,Budha,25.0,Agama
+97,119,Lainnya,25.0,Agama
+98,120,Mesjid,26.0,Tempat Ibadah
+99,121,Mushola,26.0,Tempat Ibadah
+100,122,Gereja Protestan,26.0,Tempat Ibadah
+101,123,Gereja Katolik,26.0,Tempat Ibadah
+102,124,Pura,26.0,Tempat Ibadah
+103,125,Vihara,26.0,Tempat Ibadah
+104,126,Kejahatan,27.0,Narapidana
+105,127,Pelanggaran KUHP,27.0,Narapidana
+106,128,Jumlah,27.0,Narapidana
+107,129,Sisa Thn 2019,28.0,Jumlah Perkara
+108,130,Diterima Thn 2020,28.0,Jumlah Perkara
+109,131,Diputuskan,28.0,Jumlah Perkara
+110,132,Diterima,28.0,Jumlah Perkara
+111,133,Hutan Lindung,29.0,Luas Kawasan
+112,134,Suaka Alam dan Pelestarian Alam,29.0,Luas Kawasan
+113,135,Hutan Produksi,29.0,Luas Kawasan
+114,136,Jumlah,29.0,Luas Kawasan
+115,137,APS (Angka Partisipasi Sekolah),30.0,Indikator pendidikan
+116,138,APM (Angka Partisipasi Murni),30.0,Indikator pendidikan
+117,139,APK (Angka Partisipasi Kasar),30.0,Indikator pendidikan
+118,140,Akomodasi,31.0,akomodasi
+119,141,Kamar,31.0,akomodasi
+120,142,Tempat Tidur,31.0,akomodasi
+121,143,Naik,32.0,Penumpang Kapal laut
+122,144,Turun,32.0,Penumpang Kapal laut
+123,145,Awarange,33.0,Pelabuhan
+124,146,Persen,33.0,Pelabuhan
+125,147,Garongkong,33.0,Pelabuhan
+126,148,Persen,33.0,Pelabuhan
+127,149,Milik Sendiri,34.0,Status Kepemilikan Bangunan
+128,150,Bukan Milik Sendiri,34.0,Status Kepemilikan Bangunan
+129,151,Air Kemasan/isi ulang,35.0,Persentasi Rumah Tangga menurut sumber air utamaSumber Air
+130,152,Leding,35.0,Persentasi Rumah Tangga menurut sumber air utamaSumber Air
+131,153,Sumur Bor/Pompa,35.0,Persentasi Rumah Tangga menurut sumber air utamaSumber Air
+132,154,Sumur/Mata air Terlindungi,35.0,Persentasi Rumah Tangga menurut sumber air utamaSumber Air
+133,155,Sumur/Mata air tidak terlindungi,35.0,Persentasi Rumah Tangga menurut sumber air utamaSumber Air
+134,156,Lainnya,35.0,Persentasi Rumah Tangga menurut sumber air utamaSumber Air
+135,157,Laki-laki,43.0,jk
+136,158,Perempuan,43.0,jk
+137,159,SD Kebawah,44.0,Tingkat Pendidikan
+138,160,SMP Keatas,44.0,Tingkat Pendidikan
+139,161,KUD,45.0,Jenis Koperasi
+140,162,KPRI,45.0,Jenis Koperasi
+141,163,KOPKAR,45.0,Jenis Koperasi
+142,164,KOPPAS,45.0,Jenis Koperasi
+143,165,Lainnya,45.0,Jenis Koperasi
+144,166,Jumlah,45.0,Jenis Koperasi
+145,167,Penabung,46.0,Jumlah Penabung dan Nilai Tabungan
+146,168,Nilai (Juta Rupiah),46.0,Jumlah Penabung dan Nilai Tabungan
+147,169,Triwulan 1,47.0,2021
+148,170,Triwulan 2,47.0,2021
+149,171,Triwulan 3,47.0,2021
+150,172,Triwulan 4,47.0,2021
+151,173,Belum Kawin,48.0,Status Perkawinan
+152,174,Kawin,48.0,Status Perkawinan
+153,175,Cerai,48.0,Status Perkawinan
+154,176,Jumlah,48.0,Status Perkawinan
+155,177,Bekerja,49.0,Angkatan Kerja
+156,178,Pengangguran Terbuka,49.0,Angkatan Kerja
+157,179,Jumlah,49.0,Angkatan Kerja
+158,180,BCG,50.0,Jenis Imunisasi
+159,181,DPT 1,50.0,Jenis Imunisasi
+160,182,DPT 2,50.0,Jenis Imunisasi
+161,183,DPT 3,50.0,Jenis Imunisasi
+162,184,Polio 1,50.0,Jenis Imunisasi
+163,185,Polio 2,50.0,Jenis Imunisasi
+164,186,Polio 3,50.0,Jenis Imunisasi
+165,187,Campak,50.0,Jenis Imunisasi
+166,188,0-25,51.0,Luas Wilayah (DPL)
+167,189,25-100,51.0,Luas Wilayah (DPL)
+168,190,100-500,51.0,Luas Wilayah (DPL)
+169,191,500-1000,51.0,Luas Wilayah (DPL)
+170,192,>1500,51.0,Luas Wilayah (DPL)
+171,193,Penduduk (jiwa),52.0,Penduduk
+172,194,Laju Pertumbuhan Penduduk (%),52.0,Penduduk
+173,195,Persentase Penduduk (%),52.0,Penduduk
+174,196,Kepadatan Penduduk per km2,52.0,Penduduk
+175,197,Rasio Jenis Kelamin,52.0,Penduduk
+176,198,Atas Dasar Harga Berlaku,53.0,ADHB ADHK
+177,199,Atas Dasar Harga Konstan,53.0,ADHB ADHK
+178,200,Q to Q,54.0,Laju Pertumbuhan PDRB
+179,201,Y on Y,54.0,Laju Pertumbuhan PDRB
+180,202,C to C,54.0,Laju Pertumbuhan PDRB
+181,0,Tidak Ada,,

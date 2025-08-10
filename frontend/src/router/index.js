@@ -11,6 +11,11 @@ const routes = [
     redirect: '/dashboard',
     children: [
       {
+        path: '/admin/dashboard',
+        name: 'AdminDashboard',
+        component: () => import('@/views/AdminDashboard.vue'),
+      },
+      {
         path: '/dashboard',
         name: 'Dashboard',
         // route level code-splitting

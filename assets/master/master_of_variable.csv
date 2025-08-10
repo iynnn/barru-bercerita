@@ -1,0 +1,249 @@
+,var_id,title,sub_id,sub_name,subcsa_id,subcsa_name,def,notes,vertical,unit,graph_id,graph_name
+0,146,Jumlah Kantor Pos Pembantu Menurut Kecamatan di  Kabupaten Barru,2,Komunikasi,565,Masyarakat Informasi,,,28,Tidak Ada Satuan,1,bar
+1,191,Persentase Anggota Rumah Tangga Berusia 5 Tahun ke Atas menurut  Penggunaan Teknologi Informasi selama Tiga Bulan Terakhir,2,Komunikasi,565,Masyarakat Informasi,,,57,Tidak Ada Satuan,1,bar
+2,192,"Persentase Anggota Rumah Tangga Berusia 5 Tahun ke Atas menurut pendidikan  dan Penggunaan Teknologi Informasi selama Tiga Bulan Terakhir,",2,Komunikasi,565,Masyarakat Informasi,,,57,Tahun,1,bar
+3,184,Jumlah Sarana Perdagangan di Kabupaten barru,3,Perdagangan,536,Harga-Harga,,,55,Tidak Ada Satuan,1,bar
+4,186,Jumlah Perusahaan yang mendapat surat ijin usaha di Kabupaten Barru,3,Perdagangan,536,Harga-Harga,,,28,Tidak Ada Satuan,1,bar
+5,202,Indeks Kemahalan Konstruksi (IKK),4,Konstruksi,559,"Pertambangan, Manufaktur, Konstruksi",,,63,Tidak Ada Satuan,1,bar
+6,84,Golongan Pengeluaran,5,Konsumsi dan Pengeluaran,523,Konsumsi dan Pendapatan,,,29,Persen,2,pie
+7,86,Kelompok Makanan dan Non Makanan,5,Konsumsi dan Pengeluaran,523,Konsumsi dan Pendapatan,,,30,Rupiah,1,bar
+8,126,Jumlah pencari kerja menurut jenis kelamin dan kecamatan,6,Tenaga Kerja,520,Tenaga Kerja,,sumber : dinas PMPTSP Naker,28,Tidak Ada Satuan,1,bar
+9,127,Tingkat Partisipasi Angkatan Kerja dan Tingkat Pengangguran Terbuka ,6,Tenaga Kerja,520,Tenaga Kerja,,Sumber : Sakernas; Catatan: Estimasi tahun 2016 tidak dilakukan pada level Kabupaten/Kota,9,Persen,1,bar
+10,129,Jumlah penduduk berumur 15 tahun keatas menurut jenis kegiatan utama selama seminggu yang lalu dan jenis kelamin,6,Tenaga Kerja,520,Tenaga Kerja,,"sumber : survei angkatan kerja nasional. Beberapa data mengandung nilai RSE 25 - 50%, sehingga perlu hati-hati dalam menggunakannya.",37,Tidak Ada Satuan,1,bar
+11,131,Jumlah penduduk berumur 15 tahun keatas yang bekerja selama seminggu yang lalu menurut status pekerjaan utama dan jenis kelamin,6,Tenaga Kerja,520,Tenaga Kerja,"Sumber : Sakernas.
+Beberapa data mengandung RSE 25 - 50%, sehingga perlu hati-hati dalam menggunakannya.
+",,38,Tidak Ada Satuan,1,bar
+12,133,Jumlah penduduk berumur 15 tahun keatas yang bekerja selama seminggu yang lalu menurut pendidikan tertinggi dan jenis kelamin,6,Tenaga Kerja,520,Tenaga Kerja,,sumber : sakernas,40,Tidak Ada Satuan,1,bar
+13,177,Jumlah Penduduk Berumur 15 Tahun Keatas yang  Bekerja Selama Seminggu Yang Lalu Menurut Jenis  Pekerjaan Utama dan Jenis Kelamin,6,Tenaga Kerja,520,Tenaga Kerja,,Sakernas,51,Jiwa,1,bar
+14,209,Jumlah Angkatan Kerja Menurut Jenis Kegiatan Selama Seminggu yang Lalu di Kabupaten Barru,6,Tenaga Kerja,520,Tenaga Kerja,,,9,Jiwa,1,bar
+15,138,"Daya Terpasang, Produksi, dan Distribusi Listrik PT. PLN (Persero) pada Cabang/Ranting PLN Menurut Kecamatan di Kabupaten Barru",7,Energi,558,Energi,,,28,Tidak Ada Satuan,1,bar
+16,139,Jumlah Pelanggan Listrik,7,Energi,558,Energi,,,28,Tidak Ada Satuan,1,bar
+17,140,Jumlah Pelanggan Air,7,Energi,558,Energi,,,28,Tidak Ada Satuan,1,bar
+18,141,Jumlah Pelanggan Air,7,Energi,558,Energi,,,28,Tidak Ada Satuan,1,bar
+19,178,Jumlah Pelanggan Air yang disalurkan,7,Energi,558,Energi,,,28,Tidak Ada Satuan,1,bar
+20,142,"Jumlah Industri Kecil Menengah, Tenaga Kerja dan Nilai Investasi Menurut Jenis Industri di Kabupaten Barru ",9,Industri,559,"Pertambangan, Manufaktur, Konstruksi",,,44,Tidak Ada Satuan,1,bar
+21,87,Penduduk menurut Kecamatan,12,Kependudukan,519,Kependudukan dan Migrasi,,,28,Jiwa,1,bar
+22,115,Jumlah Penduduk Menurut Kelompok Umur dan Jenis Kelamin,12,Kependudukan,519,Kependudukan dan Migrasi,,,27,Jiwa,1,bar
+23,206,Persentase Penduduk 10 Tahun Keatas Menurut Status Perkawinan dan Jenis Kelamin,12,Kependudukan,519,Kependudukan dan Migrasi,,,5,Tidak Ada Satuan,1,bar
+24,207,Persentase Penduduk Berumur 15 Tahun Keatas Menurut Pendidikan Tertinggi yang Ditamatkan dan Jenis Kelamin,12,Kependudukan,521,Pendidikan,,,65,Tidak Ada Satuan,1,bar
+25,218,"Penduduk, Laju Pertumbuhan Penduduk, Distribusi  Persentase Penduduk, Kepadatan Penduduk, dan Rasio  Jenis Kelamin Penduduk Menurut Kecamatan",12,Kependudukan,519,Kependudukan dan Migrasi,,"- Laju pertumbuhan penduduk tahun 2020 dihitung berdasarkan penduduk tahun 2010 (Mei) dibandingkan dengan penduduk tahun 2020 (September)
+- Laju pertumbuhan penduduk diatas 2020 dihitung berdasarkan penduduk tahun 2020 (September) dibandingkan dengan penduduk tahun-t (Juni)
+-Luas provinsi berdasarkan Peraturan Menteri Dalam Negeri Nomor 72 Tahun 2019 tanggal 25 Oktober 2019",28,Tidak Ada Satuan,1,bar
+26,143,Realisasi  Belanja,13,Keuangan,534,"Keuangan Pemerintah, Fiskal dan Statistik Sektor Publik",,,45,Ribu Rupiah,1,bar
+27,144,Realisasi Belanja,13,Keuangan,534,"Keuangan Pemerintah, Fiskal dan Statistik Sektor Publik",,,45,Ribu Rupiah,1,bar
+28,145,Realisasi Pendapatan,13,Keuangan,534,"Keuangan Pemerintah, Fiskal dan Statistik Sektor Publik",,,46,Ribu Rupiah,1,bar
+29,193,Koperasi Aktif,13,Keuangan,562,"Perbankan, Asuransi dan Finansial",,,28,Unit,1,bar
+30,195,Jenis Koperasi,13,Keuangan,562,"Perbankan, Asuransi dan Finansial",,,28,Unit,1,bar
+31,198,Jumlah Bank Menurut Jenis dan Status Kantor,13,Keuangan,562,"Perbankan, Asuransi dan Finansial",,,60,Unit,1,bar
+32,199,Jumlah Penabung dan Nilai Tabungan Perbankan,13,Keuangan,562,"Perbankan, Asuransi dan Finansial",,,9,Tidak Ada Satuan,1,bar
+33,201,Dana Perbankan Menurut Jenis,13,Keuangan,562,"Perbankan, Asuransi dan Finansial",,,62,Juta Rupiah,1,bar
+34,147,Jumlah Wisatawan yang Berkunjung Menurut  Objek Wisata di Kabupaten Barru,16,Pariwisata,561,Pariwisata,,,47,Tidak Ada Satuan,1,bar
+35,148,"Jumlah Rumah Makan, Meja dan Kursi   Menurut Kecamatan di Kabupaten Barru",16,Pariwisata,561,Pariwisata,,,28,Tidak Ada Satuan,1,bar
+36,179,"Jumlah Hotel, Kamar dan Tempat Tidur yang Tersedia di Kabupaten Barru",16,Pariwisata,561,Pariwisata,,,52,Tidak Ada Satuan,1,bar
+37,180,Panjang Jalan Menurut Tingkat Kewenangan Pemerintah di Kabupaten Barru,17,Transportasi,560,Transportasi,,,53,Jiwa,1,bar
+38,182,Jumlah Penumpang Angkutan laut yang naik dan turun diPelabuhan garongkong,17,Transportasi,560,Transportasi,,,10,Tidak Ada Satuan,1,bar
+39,183,Jumlah Kunjungan Kapal Pelayaran Antar Pulau di Pelabuhan Awerang dan Pelabuhan garongkong,17,Transportasi,560,Transportasi,-,-,10,Tidak Ada Satuan,1,bar
+40,194,Laju Inflasi Beberapa Kab/Kota di Prov.Sulsel,22,Inflasi,536,Harga-Harga,,,58,Tidak Ada Satuan,1,bar
+41,34,Kemiskinan,23,Kemiskinan,563,"Kondisi Tempat Tinggal, Kemiskinan, dan Permasalahan Sosial Lintas Sektor",,,8,Tidak Ada Satuan,3,line
+42,80,Garis Kemiskinan,23,Kemiskinan,563,"Kondisi Tempat Tinggal, Kemiskinan, dan Permasalahan Sosial Lintas Sektor",,,17,Tidak Ada Satuan,1,bar
+43,81,Persentase Penduduk Miskin,23,Kemiskinan,563,"Kondisi Tempat Tinggal, Kemiskinan, dan Permasalahan Sosial Lintas Sektor",,,24,Tidak Ada Satuan,2,pie
+44,82,Tingkat Kedalam Kemiskinan,23,Kemiskinan,563,"Kondisi Tempat Tinggal, Kemiskinan, dan Permasalahan Sosial Lintas Sektor",,,25,Tidak Ada Satuan,3,line
+45,83,Tingkat Keparahan Kemiskinan,23,Kemiskinan,563,"Kondisi Tempat Tinggal, Kemiskinan, dan Permasalahan Sosial Lintas Sektor",,,26,Tidak Ada Satuan,3,line
+46,242,Gini Rasio di Kabupaten Barru ,23,Kemiskinan,563,"Kondisi Tempat Tinggal, Kemiskinan, dan Permasalahan Sosial Lintas Sektor",,Sumber: Survei Sosial Ekonomi Nasional,9,Tidak Ada Satuan,1,bar
+47,157,Populasi Unggas Menurut Jenis Unggas 	,24,Peternakan,557,"Pertanian, Kehutanan, Perikanan",Sumber: Dinas Pertanian Kabupaten Barru,,28,Tidak Ada Satuan,1,bar
+48,158,Prduksi Daging Unggas Menurut Jenis Unggas ,24,Peternakan,557,"Pertanian, Kehutanan, Perikanan",Sumber: Dinas Pertanian Kabupaten Barru,,28,Tidak Ada Satuan,1,bar
+49,159,Produksi Telur Unggas ,24,Peternakan,557,"Pertanian, Kehutanan, Perikanan",Sumber: Dinas Pertanian Kabupaten Barru,,28,Tidak Ada Satuan,1,bar
+50,160,Populasi Ternak Menurut Jenis Ternak,24,Peternakan,557,"Pertanian, Kehutanan, Perikanan",Sumber: Dinas Pertanian Kabupaten Barru,,28,Tidak Ada Satuan,1,bar
+51,162,	Produksi Daging  Ternak Menurut Jenis Ternak,24,Peternakan,557,"Pertanian, Kehutanan, Perikanan",Sumber: Dinas Pertanian Kabupaten Barru,,28,Tidak Ada Satuan,1,bar
+52,163,Jumlah Ternak Yang Dipotong menurut Jenis Ternak,24,Peternakan,557,"Pertanian, Kehutanan, Perikanan",Sumber: Dinas Pertanian Kabupaten Barru,,28,Tidak Ada Satuan,1,bar
+53,197,Indeks Harga Kunsumen  (IHK) Beberapa Kabupaten/Kota di Prov Sulawesi Selatan,25,IHK,536,Harga-Harga,,,58,Tidak Ada Satuan,1,bar
+54,30,Indeks Pembangunan Manusia (LF2020),26,Indeks Pembangunan Manusia,563,"Kondisi Tempat Tinggal, Kemiskinan, dan Permasalahan Sosial Lintas Sektor",,Umur Harapan Hidup (UHH) menggunakan data LF2020,6,Tidak Ada Satuan,3,line
+55,75,Indeks Pembangunan Manusia (SP2010),26,Indeks Pembangunan Manusia,563,"Kondisi Tempat Tinggal, Kemiskinan, dan Permasalahan Sosial Lintas Sektor",,Umur Harapan Hidup (UHH) menggunakan data SP2010,16,Tidak Ada Satuan,1,bar
+56,76,Angka Harapan Hidup,26,Indeks Pembangunan Manusia,522,Kesehatan,,,20,Tidak Ada Satuan,1,bar
+57,79,Paritas Daya Beli,26,Indeks Pembangunan Manusia,536,Harga-Harga,,,23,Tidak Ada Satuan,1,bar
+58,213,Indeks Pembangunan Gender ,26,Indeks Pembangunan Manusia,564,Gender dan Kelompok Populasi Khusus,Tahun 2016 hanya level provinsi,,9,Tidak Ada Satuan,1,bar
+59,237,Indeks Pemberdayaan Gender (IDG),26,Indeks Pembangunan Manusia,564,Gender dan Kelompok Populasi Khusus,Tahun 2016 hanya tersedia pada level provinsi ,,9,Tidak Ada Satuan,1,bar
+60,238,Indeks Ketimpangan Gender (IKG),26,Indeks Pembangunan Manusia,564,Gender dan Kelompok Populasi Khusus,Tahun 2016 hanya tersedia pada level provinsi ,,9,Tidak Ada Satuan,1,bar
+61,164,Jumlah Kader Sosial Sebagai Pekerja Sosial Masyarakat ,27,Sosial Budaya,524,Perlindungan Sosial,,,28,Tidak Ada Satuan,1,bar
+62,165,Jumlah Penerima Bantuan (KK),27,Sosial Budaya,524,Perlindungan Sosial,,,28,Tidak Ada Satuan,1,bar
+63,167,Jumlah Karang Taruna Menurut Kecamatan di Kabupaten Barru ,27,Sosial Budaya,528,Aktivitas Politik dan Komunitas Lainnya,,,28,Tidak Ada Satuan,1,bar
+64,168,Jumlah Penduduk Menurut Kecamatan dan Agama,27,Sosial Budaya,527,Budaya,,,28,Tidak Ada Satuan,1,bar
+65,169,Jumlah Tempat Peribadatan ,27,Sosial Budaya,527,Budaya,,,28,Tidak Ada Satuan,1,bar
+66,176,Angka Partisipasi,28,Pendidikan,521,Pendidikan,,,50,Tidak Ada Satuan,1,bar
+67,220,Angka Harapan Lama Sekolah dan Rata-rata Lama  Sekolah di Kabupaten Barru,28,Pendidikan,521,Pendidikan,,,22,Tidak Ada Satuan,1,bar
+68,187,Persentase  Rumah  Tangga  menurut  Karakteristik  dan  StatusKepemilikan Bangunan Tempat Tinggal yang Ditempati  ,29,Perumahan,525,Pemukiman dan Perumahan,,,5,KRT,1,bar
+69,189,Pesrentasi Rumah tangga menurut penggunaan sumber air utama,29,Perumahan,525,Pemukiman dan Perumahan,,,5,KRT,1,bar
+70,116,Jumlah Tenaga Kesehatan Menurut Kecamatan,30,Kesehatan,522,Kesehatan,,Sumber : Dinas Kesehatan ,28,Tidak Ada Satuan,1,bar
+71,117,Jumlah Fasilitas Kesehatan Menurut Kecamatan,30,Kesehatan,522,Kesehatan,,sumber : Dinas Kesehatan,28,Tidak Ada Satuan,1,bar
+72,210,Jumlah Balita yang Pernah Mendapat Imunisasi Menurut Kecamatan dan Jenis Imunisasi di Kabupaten Barru,30,Kesehatan,522,Kesehatan,,,28,Tidak Ada Satuan,1,bar
+73,211,Jumlah Kasus 10 Penyakit Terbanyak di Kabupaten Barru,30,Kesehatan,522,Kesehatan,,,67,Tidak Ada Satuan,1,bar
+74,122,Jumlah Anggota DPRD Menurut Fraksi,34,Politik dan Keamanan,528,Aktivitas Politik dan Komunitas Lainnya,,sumber : Sekretariat DPRD,32,Tidak Ada Satuan,1,bar
+75,170,Tambahan Narapidana Berdasarkan Putusan Pengadilan Negeri Menurut Bulan dan Jenis Tindakan Pidana,34,Politik dan Keamanan,526,Hukum dan Kriminal,,,10,Tidak Ada Satuan,1,bar
+76,171,Jumlah Kecelakaan Lalu Lintas dan Korban,34,Politik dan Keamanan,560,Transportasi,,,49,Tidak Ada Satuan,1,bar
+77,172,Jumlah Perkara Yang Diterima/Diputuskan  Pengadilan Agama ,34,Politik dan Keamanan,526,Hukum dan Kriminal,,,10,Tidak Ada Satuan,1,bar
+78,88,Penduduk Menurut Jenis Kelamin dan Kecamatan,40,Gender,519,Kependudukan dan Migrasi,,,28,Jiwa,1,bar
+79,110,Jumlah Anggota Dewan,40,Gender,528,Aktivitas Politik dan Komunitas Lainnya,,,32,Tidak Ada Satuan,1,bar
+80,112,Jumlah Pegawai Negeri Sipil Menurut Jenis Kelamin,40,Gender,534,"Keuangan Pemerintah, Fiskal dan Statistik Sektor Publik",,,33,Tidak Ada Satuan,1,bar
+81,52,PDRB Kabupaten Barru Atas Dasar Harga Konstan Menurut Lapangan Usaha ,52,Produk Domestik Regional Bruto (Lapangan Usaha),531,Neraca Ekonomi,,"2023*: Angka Sementara; 
+2024**: Angka Sangat Sementara",12,Miliar Rupiah,3,line
+82,58,PDRB Kabupaten Barru Atas Dasar Harga Berlaku Menurut Lapangan Usaha ,52,Produk Domestik Regional Bruto (Lapangan Usaha),531,Neraca Ekonomi,,"2023* : Angka Sementara;
+2024** : Angka Sangat Sementara",12,Miliar Rupiah,3,line
+83,60,Distribusi PDRB Kabupaten Barru Atas Dasar Harga Berlaku Menurut Lapangan Usaha ,52,Produk Domestik Regional Bruto (Lapangan Usaha),531,Neraca Ekonomi,,2023*: Angka Sementara; 2024** Angka Sangat Sementara,12,Persen,2,pie
+84,62,Laju Pertumbuhan PDRB Kabupaten Barru Atas Dasar Harga Konstan menurut Lapangan Usaha,52,Produk Domestik Regional Bruto (Lapangan Usaha),531,Neraca Ekonomi,,"2023* Angka Sementara; 
+2024** Angka Sangat Sementara",12,Persen,3,line
+85,63,Laju Implisit PDRB Kabupaten Barru Menurut Lapangan Usaha ,52,Produk Domestik Regional Bruto (Lapangan Usaha),531,Neraca Ekonomi,,,12,Tidak Ada Satuan,3,line
+86,228,Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha Kabupaten Barru,52,Produk Domestik Regional Bruto (Lapangan Usaha),531,Neraca Ekonomi,"&lt;b&gt;Cakupan Lapangan Usaha&lt;/b&gt;
+
+&lt;br/&gt;
+Sektor Primer: &lt;br/&gt;
+A. Pertanian, Kehutanan, dan Perikanan&lt;br/&gt;
+B. Pertambangan dan Penggalian&lt;br/&gt;
+&lt;br/&gt;
+Sektor Sekunder:&lt;br/&gt;
+C. Industri Pengolahan&lt;br/&gt;
+D. Pengadaan Listrik dan Gas&lt;br/&gt;
+E. Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang&lt;br/&gt;
+F. Konstruksi&lt;br/&gt;
+&lt;br/&gt;
+Sektor Tersier:&lt;br/&gt;
+G. Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor&lt;br/&gt;
+H. Transportasi dan Pergudangan&lt;br/&gt; 	
+I. Penyediaan Akomodasi dan Makan Minum&lt;br/&gt;
+J. Informasi dan Komunikasi&lt;br/&gt;
+K. Jasa Keuangan dan Asuransi&lt;br/&gt;
+L. Real Estat&lt;br/&gt;
+M,N. Jasa Perusahaan&lt;br/&gt;
+O. Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib&lt;br/&gt;
+P. Jasa Pendidikan&lt;br/&gt;
+Q. Jasa Kesehatan dan Kegiatan Sosial&lt;br/&gt;
+R,S,T,U. Jasa Lainnya&lt;br/&gt;
+","2022: *Angka Sementara&lt;br/&gt;
+2023: **Angka Sangat Sementara&lt;br/&gt;
+2024: ***Angka Sangat-sangat Sementara&lt;br/&gt;
+&lt;br/&gt;
+",71,Milyar Rupiah,1,bar
+87,230,Distribusi Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha Atas Dasar Harga Berlaku Kabupaten Barru,52,Produk Domestik Regional Bruto (Lapangan Usaha),531,Neraca Ekonomi,"&lt;b&gt;Cakupan Lapangan Usaha&lt;/b&gt;
+
+&lt;br/&gt;
+Sektor Primer: &lt;br/&gt;
+A. Pertanian, Kehutanan, dan Perikanan&lt;br/&gt;
+B. Pertambangan dan Penggalian&lt;br/&gt;
+&lt;br/&gt;
+Sektor Sekunder:&lt;br/&gt;
+C. Industri Pengolahan&lt;br/&gt;
+D. Pengadaan Listrik dan Gas&lt;br/&gt;
+E. Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang&lt;br/&gt;
+F. Konstruksi&lt;br/&gt;
+&lt;br/&gt;
+Sektor Tersier:&lt;br/&gt;
+G. Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor&lt;br/&gt;
+H. Transportasi dan Pergudangan&lt;br/&gt; 	
+I. Penyediaan Akomodasi dan Makan Minum&lt;br/&gt;
+J. Informasi dan Komunikasi&lt;br/&gt;
+K. Jasa Keuangan dan Asuransi&lt;br/&gt;
+L. Real Estat&lt;br/&gt;
+M,N. Jasa Perusahaan&lt;br/&gt;
+O. Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib&lt;br/&gt;
+P. Jasa Pendidikan&lt;br/&gt;
+Q. Jasa Kesehatan dan Kegiatan Sosial&lt;br/&gt;
+R,S,T,U. Jasa Lainnya&lt;br/&gt;
+","2022: *Angka Sementara&lt;br/&gt;
+2023: **Angka Sangat Sementara&lt;br/&gt;
+2024: ***Angka Sangat-sangat Sementara&lt;br/&gt;
+&lt;br/&gt;
+",71,Persen,1,bar
+88,232,Laju Pertumbuhan Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Lapangan Usaha Kabupaten Barru,52,Produk Domestik Regional Bruto (Lapangan Usaha),531,Neraca Ekonomi,"&lt;b&gt;Cakupan Lapangan Usaha&lt;/b&gt;
+
+&lt;br/&gt;
+Sektor Primer: &lt;br/&gt;
+A. Pertanian, Kehutanan, dan Perikanan&lt;br/&gt;
+B. Pertambangan dan Penggalian&lt;br/&gt;
+&lt;br/&gt;
+Sektor Sekunder:&lt;br/&gt;
+C. Industri Pengolahan&lt;br/&gt;
+D. Pengadaan Listrik dan Gas&lt;br/&gt;
+E. Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang&lt;br/&gt;
+F. Konstruksi&lt;br/&gt;
+&lt;br/&gt;
+Sektor Tersier:&lt;br/&gt;
+G. Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor&lt;br/&gt;
+H. Transportasi dan Pergudangan&lt;br/&gt; 	
+I. Penyediaan Akomodasi dan Makan Minum&lt;br/&gt;
+J. Informasi dan Komunikasi&lt;br/&gt;
+K. Jasa Keuangan dan Asuransi&lt;br/&gt;
+L. Real Estat&lt;br/&gt;
+M,N. Jasa Perusahaan&lt;br/&gt;
+O. Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib&lt;br/&gt;
+P. Jasa Pendidikan&lt;br/&gt;
+Q. Jasa Kesehatan dan Kegiatan Sosial&lt;br/&gt;
+R,S,T,U. Jasa Lainnya&lt;br/&gt;
+","2022: *Angka Sementara&lt;br/&gt;
+2023: **Angka Sangat Sementara&lt;br/&gt;
+2024: ***Angka Sangat-sangat Sementara&lt;br/&gt; 
+q-to-q: PDRB atas dasar harga konstan 2010 pada suatu triwulan dibandingkan dengan triwulan sebelumnya&lt;br/&gt;
+y-on-y: PDRB atas dasar harga konstan 2010 pada suatu triwulan dibandingkan dengan triwulan yang sama tahun sebelumnya&lt;br/&gt;
+c-to-c: PDRB atas dasar harga konstan 2010 kumulatif sampai dengan triwulan dibandingkan periode kumulatif yang sama pada tahun sebelumnya
+&lt;br/&gt;
+
+",71,Persen,1,bar
+89,33,"Luas Panen, Produksi Dan Produktivitas Padi Di Kabupaten Barru",53,Tanaman Pangan,557,"Pertanian, Kehutanan, Perikanan",,,7,Tidak Ada Satuan,1,bar
+90,239,Produktivitas Padi di Kabupaten Barru (GKG) ,53,Tanaman Pangan,557,"Pertanian, Kehutanan, Perikanan",,,9,Kw/Ha,1,bar
+91,240,Luas Panen Padi di Kabupaten Barru,53,Tanaman Pangan,557,"Pertanian, Kehutanan, Perikanan",,,9,Ha,1,bar
+92,149,	Luas Panen Tanaman Sayuran Menurut Kecamatan dan Jenis Tanaman di Kabupaten Barru (ha),55,Hortikultura,557,"Pertanian, Kehutanan, Perikanan",,,28,Tidak Ada Satuan,1,bar
+93,153,Produksi Perikanan Laut dan Darat Menurut Kecamatan di Kabupaten Barru,56,Perikanan,557,"Pertanian, Kehutanan, Perikanan",,,28,Tidak Ada Satuan,1,bar
+94,154,Luas Area  Perikanan Darat Menurut Jenis dan Kecamatan di Kabupaten Barru,56,Perikanan,557,"Pertanian, Kehutanan, Perikanan",,,28,Kuintal/Hektar,1,bar
+95,155,Produksi Perikanan Darat Menurut Jenis dan Kecamatan di Kabupaten Barru,56,Perikanan,557,"Pertanian, Kehutanan, Perikanan",,,28,Ton,1,bar
+96,150,Luas Kawasan Hutan dan Perairan Menurut Kecamatan di Kabupaten Barru,60,Kehutanan,539,Lingkungan,,,28,Tidak Ada Satuan,1,bar
+97,151,Luas Hutan dan Lahan Kritis yang DIrehabilitasi  di Kabupaten Barru,60,Kehutanan,557,"Pertanian, Kehutanan, Perikanan",,,48,Tidak Ada Satuan,1,bar
+98,107,Jumlah Desa/Kelurahan,101,Pemerintahan,539,Lingkungan,,,28,Tidak Ada Satuan,1,bar
+99,119,Jumlah Satuan Pemerintahan menurut kecamatan,101,Pemerintahan,534,"Keuangan Pemerintah, Fiskal dan Statistik Sektor Publik",,Sumber : Dinas PMDPPKBP3A,28,Tidak Ada Satuan,1,bar
+100,121,Jumlah PNS menurut Pendidikan dan Jenis Kelamin,101,Pemerintahan,534,"Keuangan Pemerintah, Fiskal dan Statistik Sektor Publik",,sumber : Badan Kepegawaian dan PSDM,34,Tidak Ada Satuan,1,bar
+101,203,Jumlah Anggota DPRD Menurut Partai Politik,101,Pemerintahan,528,Aktivitas Politik dan Komunitas Lainnya,,,35,Tidak Ada Satuan,1,bar
+102,204,Jumlah Surat Nikah yang Diterbitkan Menurut Kecamatan,101,Pemerintahan,519,Kependudukan dan Migrasi,,,28,Tidak Ada Satuan,1,bar
+103,205,Jumlah Sertifikat Tanah yang Diterbitkan Menurut Jenis Hak Atas Tanah,101,Pemerintahan,534,"Keuangan Pemerintah, Fiskal dan Statistik Sektor Publik",,,64,Tidak Ada Satuan,1,bar
+104,135,Rata-rata harga eceren Bahan kebutuhan pokok menurut jenis komoditas,102,Harga Eceran,536,Harga-Harga,,sumber : BPS-survei Harga,41,Rupiah,1,bar
+105,137,Rata-rata harga eceran sayuran menurut komoditas sayuran,102,Harga Eceran,536,Harga-Harga,,sumber : BPS - survei harga,42,Rupiah,1,bar
+106,39,Jumlah Curah Hujan Menurut Bulan di Kabupaten Barru,151,Iklim,539,Lingkungan,,,10,Tidak Ada Satuan,1,bar
+107,42,Jumlah Hari Hujan di Kabupaten Barru,151,Iklim,539,Lingkungan,,,10,Hari,1,bar
+108,99,Suhu Udara,151,Iklim,539,Lingkungan,,,10,Celcius,1,bar
+109,101,Kelembaban Udara,151,Iklim,539,Lingkungan,,,10,Persen,1,bar
+110,105,Tekanan Udara,151,Iklim,539,Lingkungan,,,10,mb,1,bar
+111,106,Kecepatan Angin,151,Iklim,539,Lingkungan,,,10,Knot,1,bar
+112,174,	Luas Kawasan Hutan dan Perairan,152,Lingkungan Hidup,539,Lingkungan,,,28,Tidak Ada Satuan,1,bar
+113,36,Luas Wilayah Menurut Kecamatan di Kabupaten Barru,153,Geografi,540,Statistik Regional dan Statistik Area Kecil,,,28,Km2,1,bar
+114,74,Tipe Tanah,153,Geografi,539,Lingkungan,,,15,M2,1,bar
+115,95,Luas Wilayah Berdasarkan Kemiringan,153,Geografi,539,Lingkungan,,,28,Km2,1,bar
+116,66,Distribusi PDRB Atas Dasar Harga Berlaku Menurut Pengeluaran di Kabupaten Barru,155,Produk Domestik Regional Bruto (Pengeluaran),531,Neraca Ekonomi,,,14,Persen,3,line
+117,89,PDRB SERI 2010 ATAS DASAR HARGA BERLAKU MENURUT PENGELUARAN,155,Produk Domestik Regional Bruto (Pengeluaran),531,Neraca Ekonomi,,"2023* Angka Sementara; 
+2024** Angka Sangat Sementara",31,Miliar Rupiah,1,bar
+118,91,PDRB SERI 2010 ATAS DASAR HARGA KONSTAN MENURUT PENGELUARAN ,155,Produk Domestik Regional Bruto (Pengeluaran),531,Neraca Ekonomi,,2023* Angka Sementara; 2024** Angka Sangat Sementara,31,Miliar Rupiah,3,line
+119,92,DISTRIBUSI PERSENTASE PDRB SERI 2010 MENURUT PENGELUARAN ,155,Produk Domestik Regional Bruto (Pengeluaran),531,Neraca Ekonomi,,,31,Persen,2,pie
+120,93,LAJU PERTUMBUHAN PDRB SERI 2010 MENURUT PENGELUARAN,155,Produk Domestik Regional Bruto (Pengeluaran),531,Neraca Ekonomi,,"2023* Angka Sementara; 
+2024** Angka Sangat Sementara",31,Tidak Ada Satuan,3,line
+121,94,LAJU IMPLISIT PDRB SERI 2010 MENURUT PENGELUARAN,155,Produk Domestik Regional Bruto (Pengeluaran),531,Neraca Ekonomi,,"2023* Angka Sementara; 
+2024** Angka Sangat Sementara",31,Tidak Ada Satuan,3,line
+122,225,Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Pengeluaran Kabupaten Barru,155,Produk Domestik Regional Bruto (Pengeluaran),531,Neraca Ekonomi,"&lt;br/&gt;
+Lainnya: Konsumsi Lembaga Nonprofit yang Melayani Rumah Tangga (PK-LNPRT) + Net Ekspor (Ekspor - Impor) + Perubahan Inventori (PI) ‹br/&gt;","2022: *Angka Sementara&lt;br/&gt;
+2023: **Angka Sangat Sementara&lt;br/&gt;
+2024: ***Angka Sangat-sangat
+Sementara&lt;br/&gt;
+‹br/&gt;",70,Miliar Rupiah,1,bar
+123,229,Distribusi Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Pengeluaran Atas Dasar Harga Berlaku Kabupaten Barru,155,Produk Domestik Regional Bruto (Pengeluaran),531,Neraca Ekonomi,"&lt;br/&gt;
+Lainnya: Konsumsi Lembaga Nonprofit yang Melayani Rumah Tangga (PK-LNPRT) + Net Ekspor (Ekspor -Impor)
++ Perubahan Inventori (PI) &lt;br/&gt;","2022: *Angka Sementara&lt;br/&gt;
+2023: **Angka Sangat Sementara&lt;br/&gt;
+2024：***Angka Sangat-sangat
+Sementara&lt;br/&gt;
+&lt;br/&gt;",70,Persen,1,bar
+124,234,Laju Pertumbuhan Produk Domestik Regional Bruto (PDRB) Triwulanan Menurut Pengeluaran Kabupaten Barru,155,Produk Domestik Regional Bruto (Pengeluaran),531,Neraca Ekonomi,"&lt;br/&gt;
+Lainnya: Konsumsi Lembaga Nonprofit yang Melayani Rumah Tangga (PK-LNPRT) + Net Ekspor (Ekspor-Impor)
++ Perubahan Inventori (PI) &lt;br/&gt;","2022: *Angka Sementara&lt;br/&gt;
+2023: **Angka Sangat Sementara&lt;br/&gt;
+2024: ***Angka Sangat-sangat Sementara&lt;br/&gt;
+&lt;br/&gt;
+
+q-to-q: PDRB atas dasar harga konstan 2010 pada suatu triwulan dibandingkan dengan triwulan sebelumnya&lt;br/&gt;
+y-on-y: PDRB atas dasar harga konstan 2010 pada suatu triwulan dibandingkan dengan triwulan yang sama tahun sebelumnya&lt;br/&gt;
+c-to-c: PDRB atas dasar harga konstan 2010 kumulatif sampai dengan triwulan dibandingkan periode kumulatif yang sama pada tahun sebelumnya
+&lt;br/&gt;
+",70,Persen,1,bar
