@@ -35,4 +35,9 @@ return [
         ],
     ],
 
+    'bps' => [
+        'key' => env('BPS_API_KEY', ''),
+        'domain' => env('BPS_DOMAIN', '7310'),
+    ]
+
 ];

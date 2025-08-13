@@ -8,6 +8,8 @@ import avatar6 from '@/assets/images/avatars/6.jpg'
 import MainChart from './MainChart.vue'
 import WidgetsStatsA from './../widgets/WidgetsStatsTypeA.vue'
 import WidgetsStatsD from './../widgets/WidgetsStatsTypeD.vue'
+import InsightGenerator from '@/components/InsightGenerator.vue'
+import { CRow, CCol } from '@coreui/vue'
 
 const progressGroupExample1 = [
   { title: 'Monday', value1: 34, value2: 78 },
@@ -130,11 +132,19 @@ const tableExample = [
     <WidgetsStatsA class="mb-4" />
     <CRow>
       <CCol :md="12">
+        <div>
+          <CRow>
+            <CCol :md="12">
+              <InsightGenerator />
+            </CCol>
+          </CRow>
+        </div>
         <CCard class="mb-4">
+          <h1>Hai</h1>
           <CCardBody>
             <CRow>
               <CCol :sm="5">
-                <h4 id="traffic" class="card-title mb-0">Traffic</h4>
+                <h4 id="traffic" class="card-title mb-0">Trafficccc</h4>
                 <div class="small text-body-secondary">January - July 2023</div>
               </CCol>
               <CCol :sm="7" class="d-none d-md-block">

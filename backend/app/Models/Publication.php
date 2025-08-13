@@ -20,4 +20,20 @@ class Publication extends Model
     {
         return $this->belongsToMany(Indicator::class, 'indicator_publication');
     }
+
+    /**
+     * Relasi ke publikasi induk (one to one)
+     */
+    public function parent()
+    {
+        return $this->belongsTo(Publication::class, 'parent_publication_id');
+    }
+
+    /**
+     * Relasi ke publikasi terkait (anak) (one to many)
+     */
+    public function related()
+    {
+        return $this->hasMany(Publication::class, 'parent_publication_id');
+    }
 }
